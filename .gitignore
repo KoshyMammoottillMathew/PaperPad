@@ -1,0 +1,34 @@
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+__MACOSX/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode generated files
+*.xccheckout
+*.xcscmblueprint
+
+# Secrets / local configuration
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.cer
+*.key
